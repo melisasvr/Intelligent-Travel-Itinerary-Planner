@@ -1,0 +1,494 @@
+{
+  "Prague": {
+    "destination": "Prague",
+    "dates": "2024-09-01 to 2024-09-05",
+    "duration": "4 days",
+    "budget": 1500.0,
+    "estimated_cost": 1073.2,
+    "flights": [
+      {
+        "airline": "Czech Airlines",
+        "departure": "9:00 AM",
+        "arrival": "2:15 PM",
+        "price": 350.0,
+        "duration": "5h 15m"
+      },
+      {
+        "airline": "Lufthansa",
+        "departure": "1:30 PM",
+        "arrival": "6:45 PM",
+        "price": 385.0,
+        "duration": "5h 15m"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Golden Prague Hotel",
+        "rating": 4.5,
+        "price_per_night": 125.0,
+        "location": "Old Town",
+        "amenities": [
+          "WiFi",
+          "Castle Views",
+          "Restaurant"
+        ]
+      },
+      {
+        "name": "Budget Prague",
+        "rating": 3.7,
+        "price_per_night": 45.0,
+        "location": "New Town",
+        "amenities": [
+          "WiFi",
+          "Breakfast"
+        ]
+      }
+    ],
+    "daily_itineraries": [
+      {
+        "day": 1,
+        "date": "2024-09-01",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Prague Castle",
+            "description": "Largest ancient castle complex in the world",
+            "duration": "3-4 hours",
+            "location": "Hrad\u010dany",
+            "category": "historic",
+            "rating": 4.6,
+            "estimated_cost": 15
+          }
+        ],
+        "estimated_cost": 55.8,
+        "notes": "Day 1: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 2,
+        "date": "2024-09-02",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Charles Bridge",
+            "description": "Historic stone bridge with statues",
+            "duration": "1 hour",
+            "location": "Mal\u00e1 Strana",
+            "category": "landmark",
+            "rating": 4.5,
+            "estimated_cost": 0
+          }
+        ],
+        "estimated_cost": 40.8,
+        "notes": "Day 2: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 3,
+        "date": "2024-09-03",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Old Town Square",
+            "description": "Medieval square with astronomical clock",
+            "duration": "1-2 hours",
+            "location": "Old Town",
+            "category": "landmark",
+            "rating": 4.4,
+            "estimated_cost": 0
+          }
+        ],
+        "estimated_cost": 40.8,
+        "notes": "Day 3: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 4,
+        "date": "2024-09-04",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Prague Castle",
+            "description": "Largest ancient castle complex in the world",
+            "duration": "3-4 hours",
+            "location": "Hrad\u010dany",
+            "category": "historic",
+            "rating": 4.6,
+            "estimated_cost": 15
+          }
+        ],
+        "estimated_cost": 55.8,
+        "notes": "Day 4: Well within budget! Great day with 1 activities planned."
+      }
+    ],
+    "recommendations": {
+      "recommended_flight": {
+        "airline": "Czech Airlines",
+        "departure": "9:00 AM",
+        "arrival": "2:15 PM",
+        "price": 350.0,
+        "duration": "5h 15m"
+      },
+      "recommended_hotel": {
+        "name": "Budget Prague",
+        "rating": 3.7,
+        "price_per_night": 45.0,
+        "location": "New Town",
+        "amenities": [
+          "WiFi",
+          "Breakfast"
+        ]
+      },
+      "local_tips": [
+        "Average meal cost: CZK 12.0",
+        "Local transport: CZK 1.2 per ride",
+        "Book attractions in advance for better prices",
+        "Consider city tourist cards for discounts",
+        "Currency: CZK",
+        "Download offline maps to save on data roaming"
+      ]
+    },
+    "budget_breakdown": {
+      "total_estimated_cost": 1073.2,
+      "daily_average": 268.3,
+      "breakdown": {
+        "flights": "40%",
+        "accommodation": "30%",
+        "activities": "20%",
+        "meals_transport": "10%"
+      },
+      "cost_tips": [
+        "Book flights early for better deals",
+        "Consider staying in neighborhoods outside city center",
+        "Look for free walking tours and attractions",
+        "Eat at local markets for cheaper meals"
+      ]
+    },
+    "attractions_found": 3
+  },
+  "Paris": {
+    "destination": "Paris",
+    "dates": "2024-09-01 to 2024-09-05",
+    "duration": "4 days",
+    "budget": 1500.0,
+    "estimated_cost": 1885.0,
+    "flights": [
+      {
+        "airline": "Air France",
+        "departure": "8:00 AM",
+        "arrival": "2:00 PM",
+        "price": 485.0,
+        "duration": "6h 0m"
+      },
+      {
+        "airline": "Delta",
+        "departure": "10:30 AM",
+        "arrival": "4:45 PM",
+        "price": 520.0,
+        "duration": "6h 15m"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Le Grand Hotel Paris",
+        "rating": 4.7,
+        "price_per_night": 285.0,
+        "location": "Opera District",
+        "amenities": [
+          "WiFi",
+          "Spa",
+          "Restaurant"
+        ]
+      },
+      {
+        "name": "Budget Inn Paris",
+        "rating": 3.8,
+        "price_per_night": 95.0,
+        "location": "R\u00e9publique",
+        "amenities": [
+          "WiFi",
+          "Breakfast"
+        ]
+      }
+    ],
+    "daily_itineraries": [
+      {
+        "day": 1,
+        "date": "2024-09-01",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Louvre Museum",
+            "description": "World's largest art museum housing the Mona Lisa",
+            "duration": "3-4 hours",
+            "location": "Rue de Rivoli",
+            "category": "museum",
+            "rating": 4.6,
+            "estimated_cost": 30
+          }
+        ],
+        "estimated_cost": 145.0,
+        "notes": "Day 1: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 2,
+        "date": "2024-09-02",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Notre-Dame Cathedral",
+            "description": "Medieval Catholic cathedral with Gothic architecture",
+            "duration": "1-2 hours",
+            "location": "\u00cele de la Cit\u00e9",
+            "category": "religious",
+            "rating": 4.4,
+            "estimated_cost": 0
+          }
+        ],
+        "estimated_cost": 115.0,
+        "notes": "Day 2: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 3,
+        "date": "2024-09-03",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Eiffel Tower",
+            "description": "Iconic iron lattice tower and symbol of Paris",
+            "duration": "2-3 hours",
+            "location": "Champ de Mars",
+            "category": "landmark",
+            "rating": 4.5,
+            "estimated_cost": 15
+          }
+        ],
+        "estimated_cost": 130.0,
+        "notes": "Day 3: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 4,
+        "date": "2024-09-04",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Louvre Museum",
+            "description": "World's largest art museum housing the Mona Lisa",
+            "duration": "3-4 hours",
+            "location": "Rue de Rivoli",
+            "category": "museum",
+            "rating": 4.6,
+            "estimated_cost": 30
+          }
+        ],
+        "estimated_cost": 145.0,
+        "notes": "Day 4: Well within budget! Great day with 1 activities planned."
+      }
+    ],
+    "recommendations": {
+      "recommended_flight": {
+        "airline": "Air France",
+        "departure": "8:00 AM",
+        "arrival": "2:00 PM",
+        "price": 485.0,
+        "duration": "6h 0m"
+      },
+      "recommended_hotel": {
+        "name": "Budget Inn Paris",
+        "rating": 3.8,
+        "price_per_night": 95.0,
+        "location": "R\u00e9publique",
+        "amenities": [
+          "WiFi",
+          "Breakfast"
+        ]
+      },
+      "local_tips": [
+        "Average meal cost: EUR 35.0",
+        "Local transport: EUR 2.5 per ride",
+        "Book attractions in advance for better prices",
+        "Consider city tourist cards for discounts",
+        "Currency: EUR",
+        "Download offline maps to save on data roaming"
+      ]
+    },
+    "budget_breakdown": {
+      "total_estimated_cost": 1885.0,
+      "daily_average": 471.25,
+      "breakdown": {
+        "flights": "40%",
+        "accommodation": "30%",
+        "activities": "20%",
+        "meals_transport": "10%"
+      },
+      "cost_tips": [
+        "Book flights early for better deals",
+        "Consider staying in neighborhoods outside city center",
+        "Look for free walking tours and attractions",
+        "Eat at local markets for cheaper meals"
+      ]
+    },
+    "attractions_found": 3
+  },
+  "Rome": {
+    "destination": "Rome",
+    "dates": "2024-09-01 to 2024-09-05",
+    "duration": "4 days",
+    "budget": 1500.0,
+    "estimated_cost": 1558.0,
+    "flights": [
+      {
+        "airline": "Alitalia",
+        "departure": "8:30 AM",
+        "arrival": "3:15 PM",
+        "price": 420.0,
+        "duration": "6h 45m"
+      },
+      {
+        "airline": "Delta",
+        "departure": "11:00 AM",
+        "arrival": "5:45 PM",
+        "price": 445.0,
+        "duration": "6h 45m"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Hotel Rome Splendour",
+        "rating": 4.6,
+        "price_per_night": 245.0,
+        "location": "Trevi District",
+        "amenities": [
+          "WiFi",
+          "Restaurant",
+          "Rooftop Terrace"
+        ]
+      },
+      {
+        "name": "Budget Rome Central",
+        "rating": 3.7,
+        "price_per_night": 85.0,
+        "location": "Termini",
+        "amenities": [
+          "WiFi",
+          "Breakfast"
+        ]
+      }
+    ],
+    "daily_itineraries": [
+      {
+        "day": 1,
+        "date": "2024-09-01",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Colosseum",
+            "description": "Ancient amphitheater and iconic symbol of Rome",
+            "duration": "2-3 hours",
+            "location": "Palatine Hill",
+            "category": "historic",
+            "rating": 4.6,
+            "estimated_cost": 30
+          }
+        ],
+        "estimated_cost": 102.0,
+        "notes": "Day 1: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 2,
+        "date": "2024-09-02",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Vatican City",
+            "description": "Papal enclave with Sistine Chapel and St. Peter's",
+            "duration": "4-6 hours",
+            "location": "Vatican",
+            "category": "religious",
+            "rating": 4.8,
+            "estimated_cost": 30
+          }
+        ],
+        "estimated_cost": 102.0,
+        "notes": "Day 2: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 3,
+        "date": "2024-09-03",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Trevi Fountain",
+            "description": "Baroque fountain where coins bring good luck",
+            "duration": "30 minutes",
+            "location": "Quirinale",
+            "category": "landmark",
+            "rating": 4.4,
+            "estimated_cost": 0
+          }
+        ],
+        "estimated_cost": 72.0,
+        "notes": "Day 3: Well within budget! Great day with 1 activities planned."
+      },
+      {
+        "day": 4,
+        "date": "2024-09-04",
+        "activities": [
+          {
+            "time": "Morning",
+            "activity": "Colosseum",
+            "description": "Ancient amphitheater and iconic symbol of Rome",
+            "duration": "2-3 hours",
+            "location": "Palatine Hill",
+            "category": "historic",
+            "rating": 4.6,
+            "estimated_cost": 30
+          }
+        ],
+        "estimated_cost": 102.0,
+        "notes": "Day 4: Well within budget! Great day with 1 activities planned."
+      }
+    ],
+    "recommendations": {
+      "recommended_flight": {
+        "airline": "Alitalia",
+        "departure": "8:30 AM",
+        "arrival": "3:15 PM",
+        "price": 420.0,
+        "duration": "6h 45m"
+      },
+      "recommended_hotel": {
+        "name": "Budget Rome Central",
+        "rating": 3.7,
+        "price_per_night": 85.0,
+        "location": "Termini",
+        "amenities": [
+          "WiFi",
+          "Breakfast"
+        ]
+      },
+      "local_tips": [
+        "Average meal cost: EUR 22.0",
+        "Local transport: EUR 1.5 per ride",
+        "Book attractions in advance for better prices",
+        "Consider city tourist cards for discounts",
+        "Currency: EUR",
+        "Download offline maps to save on data roaming"
+      ]
+    },
+    "budget_breakdown": {
+      "total_estimated_cost": 1558.0,
+      "daily_average": 389.5,
+      "breakdown": {
+        "flights": "40%",
+        "accommodation": "30%",
+        "activities": "20%",
+        "meals_transport": "10%"
+      },
+      "cost_tips": [
+        "Book flights early for better deals",
+        "Consider staying in neighborhoods outside city center",
+        "Look for free walking tours and attractions",
+        "Eat at local markets for cheaper meals"
+      ]
+    },
+    "attractions_found": 3
+  }
+}
